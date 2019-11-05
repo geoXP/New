@@ -1,0 +1,7 @@
+E:\BITM-Git\NewOne\NewOne\bin\Debug\NewOne.exe.config
+E:\BITM-Git\NewOne\NewOne\bin\Debug\NewOne.exe
+E:\BITM-Git\NewOne\NewOne\bin\Debug\NewOne.pdb
+E:\BITM-Git\NewOne\NewOne\obj\Debug\NewOne.csprojAssemblyReference.cache
+E:\BITM-Git\NewOne\NewOne\obj\Debug\NewOne.csproj.CoreCompileInputs.cache
+E:\BITM-Git\NewOne\NewOne\obj\Debug\NewOne.exe
+E:\BITM-Git\NewOne\NewOne\obj\Debug\NewOne.pdb
